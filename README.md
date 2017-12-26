@@ -8,3 +8,12 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ### Artist Search Page
 ![Screenshot](ngSpotifySearchPage.png)
+
+### Artist Albums Page
+![Screenshot](ngSpotifyArtistAlbunsPage.png)
+
+### Albuns Page
+![Screenshot](ngSpotifyAlbumPage.png)
+
+### Albuns page in Spotify (When albuns details are clicked)
+![Screenshot](ngSpotifyAlbumViewInSpotify.png)
